@@ -1,3 +1,4 @@
+Private copy.
 # homeassistant-addons
 
 _Thanks to everyone having starred my repo! To star it click on the image below, then it will be on top right. Thanks!_
